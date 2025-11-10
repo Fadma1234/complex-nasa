@@ -1,5 +1,5 @@
 
-  Project:  Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
+  ## Project:  Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
   <img width="1920" alt="image" src="https://github.com/user-attachments/assets/75c006f5-30f3-467d-935f-633f6c763413" />
 
 ### Goal:
